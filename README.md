@@ -47,7 +47,7 @@ Apply changes after exiting play mode.
 
 
 5. After exiting Play Mode, press Apply to update the GameObject’s transform in edit mode.
-6. 
+
 
 📍 Future Enhancements
 
